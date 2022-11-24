@@ -17,9 +17,9 @@ namespace Pair_Scalp_2._0.Classes
         public static long id = 0;
         public static string availableBalance = "";
         public static string balance = "";
-        //   static string Token { get; set; } = "5469109803:AAF9Wh6d8yTcW5VdQ-z8JY1t9QJJzxw_m7Q";
+      
         
-         static string Token { get; set; } = "5580910093:AAFf8w6KNW30LsWLz9-Mdf0hLUzqY61d2yU";
+         static string Token { get; set; } = "**********************************************";
 
         static ITelegramBotClient bot = new TelegramBotClient(Token);
 
