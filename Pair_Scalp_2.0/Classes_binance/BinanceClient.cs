@@ -18,8 +18,8 @@ namespace Pair_Scalp_2._0.Classes_binance
     public static class BinanceClient
     {
         static HttpClient _httpClient;
-        private static string key = "bgSgj08zF5Kqw437UZb6EBRt4LPZcOER8srQgKC4psT03iJWAzoufFGItgN6hfu0";
-        private static string secret = "Yd7OYh2r6rYcJkT88Nz4Tof122FJ6l6fIdq2nRvRixMJ65q9cKx83KDSG65jpOTE";
+        private static string key = "***************************************";
+        private static string secret = "**************************************************";
 
         #region // Объявляем делегат
 
